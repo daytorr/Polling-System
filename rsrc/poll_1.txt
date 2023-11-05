@@ -1,0 +1,4 @@
+Are you an early or late person?;2;early,10;late,30
+Favorite chocolate?;3;milk,2;dark,7;white,0
+Favorite sport?;4;baseball,0;football,0;soccer,0;basketball,0
+Andriod or iOS;2;Android,12;iOS,200
